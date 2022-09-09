@@ -1,0 +1,6 @@
+/home/naran/RiderProjects/Edu/Edu/bin/Debug/Edu.exe
+/home/naran/RiderProjects/Edu/Edu/bin/Debug/Edu.pdb
+/home/naran/RiderProjects/Edu/Edu/obj/Debug/Edu.csproj.AssemblyReference.cache
+/home/naran/RiderProjects/Edu/Edu/obj/Debug/Edu.csproj.CoreCompileInputs.cache
+/home/naran/RiderProjects/Edu/Edu/obj/Debug/Edu.exe
+/home/naran/RiderProjects/Edu/Edu/obj/Debug/Edu.pdb
