@@ -6,16 +6,14 @@ namespace Edu
     {
         public static void Main(string[] args)
         {
-            char myChar = 'f';
-            Console.WriteLine("char.isDigit ('a'): {0}", char.IsDigit(myChar));
-            Console.WriteLine("char.isLetter ('a'): {0}", char.IsLetter(myChar));
-            Console.WriteLine("char.IsWhiteSpace('Hello There’, 5): {0}",
-                char.IsWhiteSpace("Hello There", 5));
-            Console.WriteLine("char.IsWhiteSpace('Hello There', 6): {0}",
-                char.IsWhiteSpace("Hello There", 6));
-            Console.WriteLine("char.IsPunctuation(’?'): {0}",
-                char.IsPunctuation('?'));
-            Console.WriteLine();
+            Console.WriteLine("=> Data type Parsing:");
+            bool b = bool.Parse("True");
+            Console.WriteLine("Value of b: {0}", b);
+            double d = double.Parse("2312");// не хочет работать с десятичными
+            Console.WriteLine("Value of d: {0}", d);
+            int c = int.Parse("1000");
+            Console.WriteLine("Value of c: {0}", c);
+            
         }
     }
 }
